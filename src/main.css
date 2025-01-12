@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cardModel{
+    @apply min-w-[270px] max-w-[709px] min-h-[409px] max-h-[900px] bg-cover bg-center bg-no-repeat rounded-lg relative;
+}
